@@ -6,7 +6,7 @@ I'm currently pursuing my MCA and preparing for placements. I have experience in
 
 🛠 Skills & Technologies
 
-Programming: Python, Java
+Programming: Python, Go
 
 Web Development: HTML, CSS, JavaScript
 
